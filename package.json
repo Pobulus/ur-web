@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "node server.mjs",
+    "start": "next start"
+  },
+  "dependencies": {
+    "file-loader": "^6.2.0",
+    "next": "latest",
+    "next-compose": "^0.0.2",
+    "prompt-sync": "^4.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-qr-code": "^2.0.15",
+    "react-responsive": "^10.0.0",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "use-sound": "^4.0.3",
+    "web-push": "^3.6.7"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "eslint": "8.57.1",
+    "eslint-config-next": "14.2.14"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}

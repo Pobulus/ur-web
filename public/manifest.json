@@ -1,0 +1,21 @@
+{
+  "name": "Game of UR",
+  "short_name": "UR",
+  "description": "PWA for the royal game of UR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D84E4",
+  "theme_color": "#0D84E4",
+  "icons": [
+    {
+      "src": "icon192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
