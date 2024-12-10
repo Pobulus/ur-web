@@ -1,4 +1,4 @@
-# Game of Ur, web edition
+# Game of Ur - web edition
 
 ## Install dependencies
 `npm install`
